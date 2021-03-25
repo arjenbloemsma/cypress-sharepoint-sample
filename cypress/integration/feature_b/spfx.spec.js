@@ -4,8 +4,8 @@
 
 
 describe('SharePoint SPFx Testing', function() {
-  const PAGE_URL = "https://estruyfdev2.sharepoint.com/sites/AutomatedUITests";
-  
+  const PAGE_URL = "https://bloemium.sharepoint.com/sites/delete-me";
+
   /**
    * Before visiting SharePoint, we first need to authenticate
    */
