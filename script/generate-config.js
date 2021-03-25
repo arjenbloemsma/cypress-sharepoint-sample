@@ -9,10 +9,6 @@ const configJson = JSON.parse(config);
 configJson.env = {
   username: process.env.USERNAME,
   password: process.env.PASSWORD,
-  tenant: process.env.TENANT,
-  clientid: process.env.CLIENTID,
-  clientsecret: process.env.CLIENTSECRET,
-  resource: process.env.RESOURCE
 };
 
 // Rename the junit file based on the browser used
